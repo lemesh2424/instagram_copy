@@ -1,0 +1,30 @@
+{
+  "name": "instagram",
+  "version": "0.0.1",
+  "description": "Home project as instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemesh2424/instagram_copy.git"
+  },
+  "keywords": [
+    "React",
+    "Express.js",
+    "Instagram"
+  ],
+  "author": "Oleh Lemeshenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemesh2424/instagraam_copy/issues"
+  },
+  "homepage": "https://github.com/lemesh2424/instagraam_copy#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9",
+    "typescript": "^3.7.5"
+  }
+}
